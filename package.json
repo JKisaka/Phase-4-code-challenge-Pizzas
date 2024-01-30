@@ -1,0 +1,12 @@
+{
+  "name": "pizzas-code-challenge",
+  "version": "1.0.0",
+  "description": "Pizza-Code-Challenge Description this projects sets up routes and resources for managing restaurants, pizzas, and restaurant pizzas through a Flask RESTful API. It includes endpoints for retrieving, creating, and deleting restaurant and pizza records and handling the relationships between them.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
